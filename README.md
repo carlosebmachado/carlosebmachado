@@ -22,6 +22,7 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact)](https://github.com/carlosebmachado/github-readme-stats)
 
 
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -41,6 +42,7 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
+```
 
 
 <!--
