@@ -22,6 +22,27 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact)](https://github.com/carlosebmachado/github-readme-stats)
 
 
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+
+
 <!--
 **carlosebmachado/carlosebmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
