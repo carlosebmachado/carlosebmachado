@@ -1,4 +1,4 @@
-Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Univali de Itajaí. Estou sempre em busca de novos conhecimentos e tenho muita curiosidade de saber como as coisas são construidas.
+Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Univali de Itajaí. Estou sempre em busca de novos conhecimentos e tenho muita curiosidade em saber como as coisas são construidas.
 
 
 - 🔭 I’m currently working on all.
