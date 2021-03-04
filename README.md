@@ -1,14 +1,13 @@
 Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Univali de Itajaí. Estou sempre em busca de novos conhecimentos e tenho muita curiosidade em saber como as coisas são construidas.
 
 
-- 🔭 I’m currently working on all.
-- 🌱 I’m currently learning all.
-- 👯 I’m looking to collaborate all.
-- 🤔 I’m looking for help with all.
-- 💬 Ask me about all.
-- 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado) 😉
-- 😄 Pronouns: all.
-- ⚡ Fun fact: all.
+- 🔭 I'm currently working on all stuff.
+- 🌱 I'm currently learning all I can.
+- 👯 I'm looking to collaborate on all you need.
+- 🤔 I'm looking for help with all I need.
+- 💬 Ask me about all of you want.
+- ⚡ Fun fact: there is no fun fact, sorry ☹️.
+- 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado)
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -23,8 +22,9 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
-![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact)](https://github.com/carlosebmachado/github-readme-stats)
+![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)
+
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](https://github.com/carlosebmachado/github-readme-stats)
 
 
 ```
