@@ -24,7 +24,7 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 
 ![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)
 
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](https://github.com/carlosebmachado/github-readme-stats)
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)]
 
 
 ```
