@@ -9,7 +9,7 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 - ⚡ Fun fact: the term ‘bug’ came from a moth that was found inside a computer.
 - 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado)
 
-
+[
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -20,11 +20,11 @@ Olá, me chamo Carlos. Atualmente estou cursando Ciência da Computação na Uni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+](https://github.com/carlosebmachado?tab=repositories)
 
+[![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)](https://github.com/carlosebmachado?tab=repositories)
 
-[![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)](#)
-
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](#)
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](https://github.com/carlosebmachado?tab=repositories)
 
 
 ```
