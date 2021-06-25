@@ -6,7 +6,6 @@ Olá, me chamo Carlos. Atualmente faço Ciência da Computação. Estou sempre e
 - 👯 I'm looking to collaborate on all you need.
 - 🤔 I'm looking for help with all I need.
 - 💬 Ask me about all of you want.
-- ⚡ Fun fact: the term ‘bug’ came from a moth that was found inside a computer.
 - 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado)
 
 [
