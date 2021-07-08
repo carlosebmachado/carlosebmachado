@@ -1,4 +1,4 @@
-Olá, me chamo Carlos. Sou programador e atualmente faço Ciência da Computação. Estou sempre em busca de novos conhecimentos e tenho muita curiosidade em saber como as coisas são construidas.
+Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.
 
 
 - 🔭 I'm currently working on all stuff.
