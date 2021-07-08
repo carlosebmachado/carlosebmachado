@@ -26,7 +26,6 @@ Olá, me chamo Carlos. Sou programador e atualmente faço Ciência da Computaç�
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>](https://github.com/carlosebmachado)
 
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](https://github.com/carlosebmachado?tab=repositories)
-
 [![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)](https://github.com/carlosebmachado#js-contribution-activity)
 
 
