@@ -1,6 +1,7 @@
 # Carlos Machado
 
 <h2 align="center">About me</h2>
+
 ```javascript
 
 function getBio() {
@@ -29,12 +30,12 @@ function getBio() {
 <h2 align="center">My Stacks</h2>
 <div align="center">
   <h3 align="center">My Knowledge Stack</h3>
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  <a href="https://stackshare.io/carlosebmachado/my-knowledge-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado :: StackShare" />
   </a>
   <h3 align="center">My Favorite Stack</h3>
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  <a href="https://stackshare.io/carlosebmachado/my-favorite-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado :: StackShare" />
   </a>
 </div>
 
