@@ -83,19 +83,21 @@ function getBio() {
   <a href="https://github.com/carlosebmachado">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="carlosebmachado - Languages" />
   </a>
-  <br />
+</div>
+
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <h3>Profile Stats</h3>
+  <a href="https://github.com/carlosebmachado#js-contribution-activity">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - Languages" />
+  </a>
+  <h3>Most Used Languages</h3>
   <a href="https://github.com/carlosebmachado?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark" alt="carlosebmachado - Languages" />
   </a>
 </div>
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <a href="https://github.com/carlosebmachado#js-contribution-activity">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - Languages" />
-  </a>
-</div>
-
+<br />
 ```
 Fight Bugs                      |     |
                                 \\_V_//
