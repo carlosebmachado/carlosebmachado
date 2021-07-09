@@ -1,5 +1,14 @@
-Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.
+# Carlos Machado
 
+<h2 align="center">Test</h2>
+<p align="center">
+  <a href="">
+    <img src="" alt="Carlos Machado GitHub Profile" height="20" width="20">
+  </a>
+</p>
+
+## About
+Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.
 
 - 🔭 I'm currently working on all stuff.
 - 🌱 I'm currently learning all I can.
@@ -8,6 +17,14 @@ Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always l
 - 💬 Ask me about all of you want.
 - 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado)
 
+## Stacks
+### My Knowledge Stack
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/carlosebmachado/my-knowledge-stack)
+### My Favorite Stack
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/carlosebmachado/my-favorite-stack)
+
+
+## Languages+
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>](https://github.com/carlosebmachado?tab=repositories&language=html)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>](https://github.com/carlosebmachado?tab=repositories&language=html)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://github.com/carlosebmachado?tab=repositories&language=javascript)
@@ -26,9 +43,11 @@ Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always l
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>](https://github.com/carlosebmachado)
 
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark)](https://github.com/carlosebmachado?tab=repositories)
+
+## GitHub Stats
 [![carlosebmachado's github stats](https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark)](https://github.com/carlosebmachado#js-contribution-activity)
 
-
+## 
 ```
 Fight Bugs                      |     |
                                 \\_V_//
