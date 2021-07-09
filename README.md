@@ -1,27 +1,42 @@
 # Carlos Machado
 
+<h2 align="center">About me</h2>
+```javascript
+
+function getBio() {
+  return {
+    "- ⚡ Quick bio": "Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.",
+    "- 🔭 I’m currently working on": "Personal Projects",
+    "- 🌱 I’m currently learning": "Node.js, React.js and MongoDB",
+    "- 👯 I’m looking to collaborate on": "Any of the languages I know",
+    "- 🤔 I’m looking for help with": "Any project that interests you",
+    "- 💬 Ask me about": "Anything from my stack or languages",
+    "- 📫 How to reach me:": "https://keybase.io/carlosebmachado"
+  };
+}
+
+```
+<!--
 <h2 align="center">Test</h2>
 <p align="center">
   <a href="">
     <img src="" alt="Carlos Machado GitHub Profile" height="20" width="20">
   </a>
 </p>
+-->
 
-## About
-Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.
+<h2 align="center">My Stacks</h2>
+<div align="center">
+  <h3 align="center">My Knowledge Stack</h3>
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+  <h3 align="center">My Favorite Stack</h3>
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</div>
 
-- 🔭 I'm currently working on all stuff.
-- 🌱 I'm currently learning all I can.
-- 👯 I'm looking to collaborate on all you need.
-- 🤔 I'm looking for help with all I need.
-- 💬 Ask me about all of you want.
-- 📫 How to reach me: [keybase](https://keybase.io/carlosebmachado)
-
-## Stacks
-### My Knowledge Stack
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/carlosebmachado/my-knowledge-stack)
-### My Favorite Stack
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/carlosebmachado/my-favorite-stack)
 
 
 ## Languages+
