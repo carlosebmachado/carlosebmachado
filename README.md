@@ -88,7 +88,7 @@ function getBio() {
 <div align="center">
   <h2>GitHub Stats</h2>
   <h3>Profile Stats</h3>
-  <a href="https://github.com/carlosebmachado#js-contribution-activity">
+  <a href="https://github.com/carlosebmachado#js-contribution-activity" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - Languages" />
   </a>
   <h3>Most Used Languages</h3>
