@@ -6,26 +6,20 @@
 
 function getBio() {
   return {
-    "- ⚡ Quick bio": "Hi. I am Carlos, a programmer and currently doing Computer Science. I'm always looking for new knowledge and I'm very curious to know how things are built.",
-    "- 🔭 I’m currently working on": "Personal Projects",
-    "- 🌱 I’m currently learning": "Node.js, React.js and MongoDB",
+    "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently " +
+                                          "doing Computer Science. I'm always looking " +
+                                          "for new knowledge and I'm very curious to know " +
+                                          "how things are built.",
+    "- 🔭 I’m currently working on":      "Personal Projects",
+    "- 🌱 I’m currently learning":        "Node.js, React.js and MongoDB",
     "- 👯 I’m looking to collaborate on": "Any of the languages I know",
-    "- 🤔 I’m looking for help with": "Any project that interests you",
-    "- 💬 Ask me about": "Anything from my stack or languages",
-    "- 📫 How to reach me:": "https://keybase.io/carlosebmachado"
+    "- 🤔 I’m looking for help with":     "Any project that interests you",
+    "- 💬 Ask me about":                  "Anything from my stack or languages",
+    "- 📫 How to reach me:":              "https://keybase.io/carlosebmachado"
   };
 }
 
 ```
-
-<!--
-<h2 align="center">Test</h2>
-<p align="center">
-  <a href="">
-    <img src="" alt="Carlos Machado GitHub Profile" height="20" width="20">
-  </a>
-</p>
--->
 
 <div align="center">
   <h2>My Stacks</h2>
@@ -38,8 +32,6 @@ function getBio() {
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado - StackShare" />
   </a>
 </div>
-
-
 
 <div align="center">
   <h2>Languages and Tools</h2>
@@ -91,7 +83,7 @@ function getBio() {
   <a href="https://github.com/carlosebmachado">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="carlosebmachado - Languages" />
   </a>
-  
+  <br />
   <a href="https://github.com/carlosebmachado?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark" alt="carlosebmachado - Languages" />
   </a>
@@ -99,13 +91,11 @@ function getBio() {
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  
   <a href="https://github.com/carlosebmachado#js-contribution-activity">
     <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - Languages" />
   </a>
 </div>
 
-## 
 ```
 Fight Bugs                      |     |
                                 \\_V_//
