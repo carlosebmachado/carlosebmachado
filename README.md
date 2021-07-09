@@ -7,7 +7,7 @@
 function getBio() {
   return {
     "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently " +
-                                          "doing Computer Science. I'm always looking " +
+                                          "studying Computer Science. I'm always looking " +
                                           "for new knowledge and I'm very curious to know " +
                                           "how things are built.",
     "- 🔭 I’m currently working on":      "Personal Projects",
