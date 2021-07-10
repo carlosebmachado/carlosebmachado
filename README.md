@@ -6,10 +6,9 @@
 
 function getBio() {
   return {
-    "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently " +
-                                          "studying Computer Science. I'm always looking " +
-                                          "for new knowledge and I'm very curious to know " +
-                                          "how things are built.",
+    "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently studying Computer Science." +
+                                          "I'm always looking for new knowledge and I'm very curious to know how " +
+                                          "things are built.",
     "- 🔭 I’m currently working on":      "Personal Projects",
     "- 🌱 I’m currently learning":        "Node.js, React.js and MongoDB",
     "- 👯 I’m looking to collaborate on": "Any of the languages I know",
@@ -89,7 +88,7 @@ function getBio() {
   <h2>GitHub Stats</h2>
   <h3>Profile Stats</h3>
   <a href="https://github.com/carlosebmachado#js-contribution-activity">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - GitHub status" />
   </a>
   <h3>Most Used Languages</h3>
   <a href="https://github.com/carlosebmachado?tab=repositories">
