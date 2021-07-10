@@ -13,7 +13,7 @@ function getBio() {
     "- 🔭 I’m currently working on":      "Personal Projects",
     "- 🌱 I’m currently learning":        "Node.js, React.js and MongoDB",
     "- 👯 I’m looking to collaborate on": "Any of the languages I know",
-    "- 🤔 I’m looking for help with":     "Any project that interests you",
+    "- 🤔 I’m looking for help with":     "Any of my project that interests you",
     "- 💬 Ask me about":                  "Anything from my stack or languages",
     "- 📫 How to reach me:":              "https://keybase.io/carlosebmachado"
   };
