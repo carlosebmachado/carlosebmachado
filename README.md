@@ -7,7 +7,7 @@
 function getBio() {
   return {
     "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently studying Computer Science.",
-    "- 🔭 I’m currently working at":      "UNIVALI",
+    "- 🔭 I’m currently working at":      "UNIVALI - Universidade do Vale do Itajaí",
     "- 🌱 I’m currently learning":        "Node.js, React.js and MongoDB",
     "- 👯 I’m looking to collaborate on": "Any of the languages I know",
     "- 🤔 I’m looking for help with":     "Any of my project that interests you",
