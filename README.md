@@ -18,6 +18,8 @@ function getBio() {
 
 ```
 
+<!--
+
 <div align="center">
   <h2>My Stacks</h2>
   <h3>My Knowledge Stack</h3>
@@ -29,6 +31,8 @@ function getBio() {
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado - StackShare" />
   </a>
 </div>
+
+-->
 
 <div align="center">
   <h2>Languages and Tools</h2>
