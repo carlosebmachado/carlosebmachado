@@ -94,7 +94,7 @@ function getBio() {
   </a>
   <h3>Most Used Languages</h3>
   <a href="https://github.com/carlosebmachado?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&exclude_repo=Portugol-Studio,Tokenizer,Unicar,Compiler,WitchScape,FlappyBird-jclone,PacMan-clone,e-commerce-kdd,minilang-interpreter,threallelism,adjacency-graph-gui,adjacency-graph-console,olcPixelGameEngine,the-ant-quest,KnightTour,file-generator,restaurant-mas,FlappyBird-jclone,PacMan-clone,graphic-sort,data-structure,little-computer-3,Tetris-clone,BPS,BPS-2,Sispani,bank-system_unit-test,calculator-android,PasswordGenerator-java,cnn-food-recognition" alt="carlosebmachado - Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&exclude_repo=Portugol-Studio,Tokenizer,Unicar,Compiler,WitchScape,FlappyBird-jclone,PacMan-clone,e-commerce-kdd,minilang-interpreter,threallelism,adjacency-graph-gui,adjacency-graph-console,olcPixelGameEngine,the-ant-quest,KnightTour,file-generator,restaurant-mas,FlappyBird-jclone,PacMan-clone,graphic-sort,data-structure,little-computer-3,Tetris-clone,BPS,BPS-2,Sispani,calculator-android,PasswordGenerator-java,cnn-food-recognition" alt="carlosebmachado - Languages" />
   </a>
 </div>
 
