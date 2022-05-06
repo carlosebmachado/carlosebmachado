@@ -96,6 +96,7 @@ function getBio() {
   <a href="https://github.com/carlosebmachado?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&langs_count=10" alt="carlosebmachado - Languages" />
   </a>
+  <br />
 </div>
 
 <!--
