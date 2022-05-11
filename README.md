@@ -6,13 +6,13 @@
 
 function getBio() {
   return {
-    "- ⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently doing Computer Science.",
-    "- 🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
-    "- 🌱 I’m currently learning":        "Node.js, React.js and MongoDB",
-    "- 👯 I’m looking to collaborate on": "Any of the languages I know",
-    "- 🤔 I’m looking for help with":     "Any of my project that interests you",
-    "- 💬 Ask me about":                  "Anything from my stack, languages or tools",
-    "- 📫 How to reach me:":              "https://keybase.io/carlosebmachado"
+    "⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently doing Computer Science.",
+    "🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
+    "🌱 I’m currently learning":        "Node.js, React.js, React Native and MongoDB",
+    "👯 I’m looking to collaborate on": "Any of the languages I know",
+    "🤔 I’m looking for help with":     "Any of my project that interests you",
+    "💬 Ask me about":                  "Anything from my stack, languages or tools",
+    "📫 How to reach me:":              "https://keybase.io/carlosebmachado"
   };
 }
 
