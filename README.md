@@ -94,7 +94,7 @@ function getBio() {
   </a>
   <h3>Most Used Languages</h3>
   <a href="https://github.com/carlosebmachado?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&langs_count=10" alt="carlosebmachado - Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&langs_count=10&exclude_repo=graphic-computing,graphic-computing-2,restaurant-mas,e-commerce-kdd,Portugol-Studio,pong-pro-player,Compiler,scheduler,caesar-cipher,minilang-interpreter,threallelism,KnightTour,graphic-sort,Tokenizer,adjacency-graph-gui,cnn-food-recognition,adjacency-graph-console,image-processing-algorithms,olcPixelGameEngine,sort-algorithms,the-ant-quest,data-structure,Unicar" alt="carlosebmachado - Languages" />
   </a>
   <br />
 </div>
