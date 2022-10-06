@@ -8,7 +8,7 @@ function getBio() {
   return {
     "⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently doing Computer Science.",
     "🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
-    "🌱 I’m currently learning":        "Node.js, React.js, React Native and MongoDB",
+    "🌱 I’m currently learning":        "Clean Architecture",
     "👯 I’m looking to collaborate on": "Any of the languages I know",
     "🤔 I’m looking for help with":     "Any of my project that interests you",
     "💬 Ask me about":                  "Anything from my stack, languages or tools",
@@ -100,7 +100,7 @@ function getBio() {
 </div>
 
 <!--
-&exclude_repo=Portugol-Studio,Tokenizer,Unicar,Compiler,WitchScape,FlappyBird-jclone,PacMan-clone,e-commerce-kdd,minilang-interpreter,threallelism,adjacency-graph-gui,adjacency-graph-console,olcPixelGameEngine,the-ant-quest,KnightTour,file-generator,restaurant-mas,FlappyBird-jclone,PacMan-clone,graphic-sort,data-structure,little-computer-3,Tetris-clone,BPS,BPS-2,Sispani,calculator-android,PasswordGenerator-java,cnn-food-recognition,web-browser,encryptor,scheduler
+&exclude_repo=Portugol-Studio,WitchScape,FlappyBird-jclone,PacMan-clone,minilang-interpreter,olcPixelGameEngine,file-generator,FlappyBird-jclone,graphic-sort,data-structure,little-computer-3,Tetris-clone,BPS,BPS-2,calculator-android,PasswordGenerator-java,web-browser,encryptor
 -->
 
 <br />
