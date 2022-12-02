@@ -6,36 +6,23 @@
 
 function getBio() {
   return {
-    "⚡ Quick bio":                     "Hi. I am Carlos, a programmer and currently doing Computer Science.",
+    "⚡ Quick bio":                     "Hi. I'm carlos, a full-stack developer",
     "🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
-    "🌱 I’m currently learning":        "Clean Architecture",
+    "🌱 I’m currently learning":        "Project management",
     "👯 I’m looking to collaborate on": "Any of the languages I know",
     "🤔 I’m looking for help with":     "Any of my project that interests you",
-    "💬 Ask me about":                  "Anything from my stack, languages or tools",
-    "📫 How to reach me:":              "https://keybase.io/carlosebmachado"
+    "💬 Ask me about":                  "The cosmos",
+    "📫 How to reach me":               new URL("https://keybase.io/carlosebmachado")
   };
 }
 
 ```
 
-<!--
 
-<div align="center">
-  <h2>My Stacks</h2>
-  <h3>My Knowledge Stack</h3>
-  <a href="https://stackshare.io/carlosebmachado/my-knowledge-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado - StackShare" />
-  </a>
-  <h3>My Favorite Stack</h3>
-  <a href="https://stackshare.io/carlosebmachado/my-favorite-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="carlosebmachado - StackShare" />
-  </a>
-</div>
-
--->
 
 <div align="center">
   <h2>Languages and Tools</h2>
+  <p>Click to filter my repositories</p>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="carlosebmachado - Languages" />
   </a>
@@ -45,44 +32,14 @@ function getBio() {
   <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="carlosebmachado - Languages" />
   </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="carlosebmachado - Languages" />
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="carlosebmachado - Languages" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="carlosebmachado - Languages" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=php">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=python">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%2B%2B">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%23">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=java">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=gdscript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="carlosebmachado - Languages" />
   </a>
 </div>
 
@@ -94,14 +51,10 @@ function getBio() {
   </a>
   <h3>Most Used Languages</h3>
   <a href="https://github.com/carlosebmachado?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&langs_count=10&exclude_repo=graphic-computing,graphic-computing-2,restaurant-mas,e-commerce-kdd,Portugol-Studio,pong-pro-player,Compiler,scheduler,caesar-cipher,minilang-interpreter,threallelism,KnightTour,graphic-sort,Tokenizer,adjacency-graph-gui,cnn-food-recognition,adjacency-graph-console,image-processing-algorithms,olcPixelGameEngine,sort-algorithms,the-ant-quest,data-structure,Unicar,FlappyBird-jclone,BPS,BPS-2,WitchScape,mendeley-mobile,iot_kdd,CG_Trabalho_Final" alt="carlosebmachado - Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebmachado&layout=compact&theme=dark&langs_count=10&exclude_repo=Portugol-Studio,minilang-interpreter,olcPixelGameEngine,sort-algorithms,data-structure,BPS,BPS-2,WitchScape,mendeley-mobile,whatsapp-for-tablets" alt="carlosebmachado - Languages" />
   </a>
   <br />
 </div>
-
-<!--
-&exclude_repo=Portugol-Studio,WitchScape,FlappyBird-jclone,PacMan-clone,minilang-interpreter,olcPixelGameEngine,file-generator,FlappyBird-jclone,graphic-sort,data-structure,little-computer-3,Tetris-clone,BPS,BPS-2,calculator-android,PasswordGenerator-java,web-browser,encryptor
--->
 
 <br />
 
