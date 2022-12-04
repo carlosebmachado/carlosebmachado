@@ -41,6 +41,36 @@ function getBio() {
   <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="carlosebmachado - Languages" />
   </a>
+    <a href="https://github.com/carlosebmachado?tab=repositories&language=php">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=python">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%2B%2B">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=c">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%23">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=java">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=gdscript">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="carlosebmachado - Languages" />
+  </a>
+  <a href="https://github.com/carlosebmachado">
+    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="carlosebmachado - Languages" />
+  </a>
 </div>
 
 <div align="center">
