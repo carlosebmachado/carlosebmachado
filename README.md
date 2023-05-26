@@ -6,12 +6,12 @@
 
 function getBio() {
   return {
-    "⚡ Quick bio":                     "Hi. I'm carlos, a full-stack developer",
+    "⚡ Quick bio":                     "Hi. I'm carlos, Science Computer graduate full-stack developer.",
     "🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
-    "🌱 I’m currently learning":        "Project management",
-    "👯 I’m looking to collaborate on": "Any of the languages I know",
-    "🤔 I’m looking for help with":     "Any of my project that interests you",
-    "💬 Ask me about":                  "The cosmos",
+    "🌱 I’m currently learning":        "Project Management",
+    "👯 I’m looking to collaborate on": "Any fascinating project made using some language I know.",
+    "🤔 I’m looking for help with":     "Any of my project that interests you.",
+    "💬 Ask me about":                  "Node.js environment.",
     "📫 How to reach me":               new URL("https://keybase.io/carlosebmachado")
   };
 }
@@ -23,56 +23,90 @@ function getBio() {
 <div align="center">
   <h2>Languages and Tools</h2>
   <p>Click to filter my repositories</p>
+  <!--
+    https://github.com/devicons/devicon/tree/master/icons
+    Version: 1119b9f84c0290e0f0b38982099a2bd027a48bf1
+  -->
+  
+  <!-- Runtime Environments -->
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="carlosebmachado - Node.js" />
+  </a>
+  
+  <!-- Frameworks -->
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="carlosebmachado - React/React Native" />
+  </a>
+  
+  <!-- Libraries -->
   <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" alt="carlosebmachado - Bootstrap" />
   </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="carlosebmachado - Languages" />
+
+  <!-- Languages -->
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="carlosebmachado - TypeScript Language" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=javascript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="carlosebmachado - JavaScript Language" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=php">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=python">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%2B%2B">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="carlosebmachado - PHP Language" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=c%23">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="carlosebmachado - C# Language" />
   </a>
   <a href="https://github.com/carlosebmachado?tab=repositories&language=java">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="carlosebmachado - Java Language" />
   </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=python">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="carlosebmachado - Python Language" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=c%2B%2B">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="carlosebmachado - C++ Language" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=c">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="carlosebmachado - C Language" />
+  </a>
+  
+  <!-- Mark Languages -->
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="carlosebmachado - HTML5" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="carlosebmachado - CSS3" />
+  </a>
+  
+  <!-- Versioning -->
+  <a href="https://github.com/carlosebmachado">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="carlosebmachado - Git" />
+  </a>
+  <a href="https://github.com/carlosebmachado">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="carlosebmachado - GitHub" />
+  </a>
+  
+  <!-- Databases -->
+  <a href="https://github.com/carlosebmachado?tab=repositories">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="carlosebmachado - MongoDB" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="carlosebmachado - PostgreSQL" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="carlosebmachado - MySQL" />
+  </a>
+  <a href="https://github.com/carlosebmachado?tab=repositories">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="carlosebmachado - Oracle" />
+  </a>
+
+  <!-- Game Engines -->
   <a href="https://github.com/carlosebmachado?tab=repositories&language=gdscript">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" alt="carlosebmachado - Godot" />
   </a>
+  
+  <!-- Operational Systems -->
   <a href="https://github.com/carlosebmachado">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="carlosebmachado - Languages" />
-  </a>
-  <a href="https://github.com/carlosebmachado">
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="carlosebmachado - Languages" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="carlosebmachado - Linux" />
   </a>
 </div>
 
