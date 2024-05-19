@@ -6,19 +6,14 @@
 
 function getBio() {
   return {
-    "⚡ Quick bio":                     "Hi. I'm carlos, Science Computer graduate full-stack developer.",
+    "⚡ Quick bio":                     "Hi. I'm Carlos, a Science Computer graduate full-stack developer",
     "🔭 I’m currently working at":      "UNIVALI - University of Itajaí Valley",
     "🌱 I’m currently learning":        "Project Management",
-    "👯 I’m looking to collaborate on": "Any fascinating project made using some language I know.",
-    "🤔 I’m looking for help with":     "Any of my project that interests you.",
-    "💬 Ask me about":                  "Node.js environment.",
     "📫 How to reach me":               new URL("https://keybase.io/carlosebmachado")
   };
 }
 
 ```
-
-
 
 <div align="center">
   <h2>Languages and Tools</h2>
@@ -112,8 +107,8 @@ function getBio() {
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <h3>Profile Stats</h3>
   <!--   
+  <h3>Profile Stats</h3>
   <a href="https://github.com/carlosebmachado#js-contribution-activity">
     <img src="https://github-readme-stats.vercel.app/api?username=carlosebmachado&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dark" alt="carlosebmachado - GitHub status" />
   </a>
@@ -125,7 +120,36 @@ function getBio() {
   <br />
 </div>
 
+<div>
+  <h2>My Others Projects</h2>
+  <ul>
+  <li>
+    <a href="https://github.com/bpslib">
+      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> BPS: a data storing format
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/carlosebmachado-games">
+      <img height="20" src="https://avatars.githubusercontent.com/u/119642389?s=200&v=4" alt="carlosebmachado - Games" /> Games: my developed games
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/univesity-projects">
+      <img height="20" src="https://avatars.githubusercontent.com/u/114705366?s=200&v=4" alt="carlosebmachado - College" /> College: my college projects
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/CP-Lang">
+      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> CP Lang: a toy programming language
+    </a>
+  </li>
+  </ul>
+
+  <br />
+</div>
+
 <br />
+
 
 ```
 Fight Bugs                      |     |
