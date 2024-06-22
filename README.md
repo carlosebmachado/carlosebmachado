@@ -124,8 +124,13 @@ function getBio() {
   <h2>My Others Projects</h2>
   <ul>
   <li>
+    <a href="https://github.com/CP-Lang">
+      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> CP Lang: a toy programming language (interpreter under development)
+    </a>
+  </li>
+  <li>
     <a href="https://github.com/bpslib">
-      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> BPS: a data storing format
+      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> BPS: a toy data format
     </a>
   </li>
   <li>
@@ -136,11 +141,6 @@ function getBio() {
   <li>
     <a href="https://github.com/univesity-projects">
       <img height="20" src="https://avatars.githubusercontent.com/u/114705366?s=200&v=4" alt="carlosebmachado - College" /> College: my college projects
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/CP-Lang">
-      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> CP Lang: a toy programming language
     </a>
   </li>
   </ul>
