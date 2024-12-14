@@ -125,12 +125,12 @@ function getBio() {
   <ul>
   <li>
     <a href="https://github.com/CP-Lang">
-      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> PhyX: a toy programming language
+      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - Phyx Lang" /> Phyx: a toy programming language
     </a>
   </li>
   <li>
     <a href="https://github.com/bpslib">
-      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> PXML: a toy data serialization format
+      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - PhyxML" /> PhyxML: a toy data serialization format
     </a>
   </li>
   <li>
