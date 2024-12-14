@@ -125,12 +125,12 @@ function getBio() {
   <ul>
   <li>
     <a href="https://github.com/CP-Lang">
-      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> CP Lang: a toy programming language (interpreter under development)
+      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - CP Lang" /> PhyX: a toy programming language
     </a>
   </li>
   <li>
     <a href="https://github.com/bpslib">
-      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> BPS: a toy data format
+      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BPS" /> PXML: a toy data serialization format
     </a>
   </li>
   <li>
@@ -138,11 +138,13 @@ function getBio() {
       <img height="20" src="https://avatars.githubusercontent.com/u/119642389?s=200&v=4" alt="carlosebmachado - Games" /> Games: my developed games
     </a>
   </li>
+  <!--
   <li>
     <a href="https://github.com/univesity-projects">
       <img height="20" src="https://avatars.githubusercontent.com/u/114705366?s=200&v=4" alt="carlosebmachado - College" /> College: my college projects
     </a>
   </li>
+  -->
   </ul>
 
   <br />
