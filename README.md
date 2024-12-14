@@ -124,13 +124,13 @@ function getBio() {
   <h2>My Others Projects</h2>
   <ul>
   <li>
-    <a href="https://github.com/phyx-lang">
-      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - Phyx Lang" /> Phyx: a toy programming language
+    <a href="https://github.com/basic-script-language">
+      <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - BSL" /> BSL: a toy script language
     </a>
   </li>
   <li>
-    <a href="https://github.com/bpslib">
-      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - PhyxML" /> PhyxML: a toy data serialization format
+    <a href="https://github.com/basic-markup-language">
+      <img height="20" src="https://avatars.githubusercontent.com/u/87484268?s=200&v=4" alt="carlosebmachado - BML" /> BML: a toy data serialization format
     </a>
   </li>
   <li>
