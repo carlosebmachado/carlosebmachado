@@ -60,9 +60,6 @@ function getBio() {
   <a href="https://github.com/carlosebmachado?tab=repositories&language=c%2B%2B">
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="carlosebmachado - C++ Language" />
   </a>
-  <a href="https://github.com/carlosebmachado?tab=repositories&language=c">
-    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="carlosebmachado - C Language" />
-  </a>
   
   <!-- Mark Languages -->
   <a href="https://github.com/carlosebmachado?tab=repositories&language=html">
