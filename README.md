@@ -121,7 +121,7 @@ function getBio() {
   <h2>My Others Projects</h2>
   <ul>
   <li>
-    <a href="https://github.com/flexa-script">
+    <a href="https://github.com/flexascript">
       <img height="20" src="https://avatars.githubusercontent.com/u/141463186?s=200&v=4" alt="carlosebmachado - Flexa" /> Flexa: a toy script language
     </a>
   </li>
